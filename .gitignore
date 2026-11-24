@@ -1,0 +1,16 @@
+# Backend dependencies and environment
+node_modules/
+.env
+.env.*
+!.env.example
+
+# Build and coverage output
+dist/
+build/
+coverage/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
